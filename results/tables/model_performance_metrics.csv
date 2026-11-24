@@ -1,0 +1,7 @@
+Model,Target,RMSE,R2,MAE
+Linear Regression (LR),CR,0.2814,0.9056,0.2206
+Linear Regression (LR),SR,0.1377,0.8887,0.1095
+Decision Tree (DT),CR,0.3654,0.8409,0.29
+Decision Tree (DT),SR,0.1754,0.8195,0.1411
+Support Vector Machine (SVM),CR,0.2817,0.9055,0.2188
+Support Vector Machine (SVM),SR,0.142,0.8816,0.1128

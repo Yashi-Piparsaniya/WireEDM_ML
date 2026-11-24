@@ -1,0 +1,7 @@
+Parameter,Sweep Range,CR at Min,CR at Max,CR Delta,CR Observed Trend,SR at Min,SR at Max,SR Delta,SR Observed Trend
+Ton,0.4 -> 1.4 µs,1.225,2.782,1.557,▲ Increasing,0.419,1.281,0.861,▲ Increasing (Worsening)
+Toff,14.0 -> 46.0 µs,2.411,1.49,-0.921,▼ Decreasing,0.877,0.771,-0.105,▼ Decreasing (Improving)
+IP,70.0 -> 210.0 A,1.097,2.881,1.784,▲ Increasing,0.598,1.233,0.635,▲ Increasing (Worsening)
+SV,16.0 -> 80.0 V,2.042,1.657,-0.385,▼ Decreasing,1.188,0.586,-0.602,▼ Decreasing (Improving)
+WF,2.0 -> 12.0 m/min,1.695,1.831,0.135,▲ Increasing,0.824,0.801,-0.022,■ Stable
+WT,450.0 -> 1600.0 g,1.801,1.701,-0.1,▼ Decreasing,0.908,0.871,-0.037,▼ Decreasing (Improving)

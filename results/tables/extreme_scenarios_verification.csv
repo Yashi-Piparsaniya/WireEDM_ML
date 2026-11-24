@@ -1,0 +1,6 @@
+Scenario,CR [mm/min],SR [µm Ra],Physical Bounds Check
+Nominal Baseline,1.909,0.874,PASSED (Physically Sound)
+"Minimum Energy (Low Ton, Low IP, High Toff, High SV)",1.473,0.349,FAILED
+"Maximum Energy (High Ton, High IP, Low Toff, Low SV)",4.307,1.407,PASSED (Physically Sound)
+"Finishing Cut Setting (Low IP, Low Ton, High SV for smooth finish)",0.305,0.156,FAILED
+"Roughing Cut Setting (High IP, High Ton for rapid removal)",4.22,1.864,PASSED (Physically Sound)
